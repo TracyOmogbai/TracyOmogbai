@@ -96,7 +96,7 @@ End-to-end SQL analysis of 500K+ rows uncovering revenue trends, regional perfor
 
 <br/>
 
-*"I don't just analyze data — I build systems that keep answering questions."*
+*I don't just analyze data — I build systems that keep answering questions.*
 
 Thanks for visiting! Let's build insights together.
 
